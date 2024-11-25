@@ -4,4 +4,4 @@ var parent = document.querySelector("#parent")
 
 var root = ReactDOM.createRoot(parent)
 
-//16:20
+root.render(h1)
